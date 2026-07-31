@@ -30,7 +30,7 @@ RevIN + Linear (instance normalization)	19.29
 Plain window-linear (no normalization)	27.34
 EMA-decomposition (xPatch-style)	36.69
 
-Ensembles / post-processing:
+Ensembles/post-processing:
 
 Method	SMAPE (%)
 Mean Ensemble	16.37
